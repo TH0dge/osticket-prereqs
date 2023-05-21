@@ -95,8 +95,7 @@ Next we will navigate to the osTicket folder in the file explorer. Go to c:\inet
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/I1Suljx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>![image](https://github.com/TH0dge/osticket-prereqs/assets/132714490/2970c2f0-4e25-40d9-8032-89a437212014)
 </p>
 <p>
 Go back to osTicket webpage. Click on "continue". It now works.If that last section wasn't done properly, then it would no open. Fill in the information. Make sure "Default Email" is a different email then "Email Address" under the Admin User section. Go back to the Google Drive files and download HeidiSQL. It should bring you to document and click on the link to download the HeidiSQL. Click on either "Open File" from the website or navigate to the "Downloads" folder and double click HeidiSQL Application. Click Accept Install nexty and Install. Then click Launch and it will open. 
